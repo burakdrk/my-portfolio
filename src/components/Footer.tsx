@@ -3,7 +3,7 @@ import { IoIosMail } from "react-icons/io";
 
 export function Footer() {
   return (
-    <footer className="mt-16 mb-10 flex flex-row gap-5">
+    <footer className="mt-16 mb-10 flex flex-row gap-5 justify-center">
       <a
         className="flex gap-2 flex-row items-center hover:opacity-50 cursor-pointer transition-opacity duration-300 ease-out animate-in fade-in"
         href="https://github.com/burakdrk"
