@@ -26,15 +26,12 @@ export function Home() {
         />
       </h1>
       <p>
-        I'm a software developer with previous internship experience in full stack web development. I like learning and
+        I'm a software developer with previous work experience in full stack web development. I like learning and
         building new stuff in my free time, so here you will find some details about my past side projects and
-        experiences. I'm currently open for new grad roles starting September 2024.
+        experiences.
       </p>
 
       <ul className="font-bold">
-        <ul>
-          Status: ✅ <span className="text-green-600">Open to new grad roles</span>
-        </ul>
         <ul>Location: Ontario, Canada 🇨🇦</ul>
         <ul>
           Email: <a href="mailto:bduruk@proton.me">bduruk@proton.me</a>
