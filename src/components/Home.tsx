@@ -19,8 +19,6 @@ export function Home() {
             typewriter.typeString("Hi there 👋").pauseFor(1000).typeString("<br/>I'm Burak.").stop().start();
           }}
           options={{
-            // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-            /* @ts-expect-error */
             stringSplitter,
           }}
         />
